@@ -47,12 +47,12 @@ movie_trends_project/
 - Build an interactive dashboard (Tableau, Plotly, Dash).
 
 - Dataset
-The dataset used in this project can be downloaded from Kaggle - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-
+The dataset used in this project can be downloaded from Kaggle - The Movies Dataset
 ---
 
 ## Author
 - Nikeisha Shafa Irianto 
 
 ✍️ *Created as part of a Data Science learning project.*
+
 
