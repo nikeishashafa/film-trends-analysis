@@ -44,7 +44,10 @@ movie_trends_project/
 ## 🚀 Next Steps
 - Apply machine learning to predict movie success.  
 - Analyze audience reviews (IMDb, Rotten Tomatoes).  
-- Build an interactive dashboard (Tableau, Plotly, Dash).  
+- Build an interactive dashboard (Tableau, Plotly, Dash).
+
+- Dataset
+The dataset used in this project can be downloaded from Kaggle - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 ---
 
@@ -52,3 +55,4 @@ movie_trends_project/
 - Nikeisha Shafa Irianto 
 
 ✍️ *Created as part of a Data Science learning project.*
+
